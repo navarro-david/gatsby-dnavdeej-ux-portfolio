@@ -1,3 +1,5 @@
+@import url("https://use.typekit.net/uoz6aiu.css");
+
 // breakpoints
 $breakpoint-sm: 576px;
 $breakpoint-md: 768px;
@@ -6,7 +8,7 @@ $breakpoint-xl: 1200px;
 
 :root {
 
-	--font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+	--font-family: roboto, sans-serif;
 	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   --font-size-small: 12px;
   
@@ -25,7 +27,7 @@ $breakpoint-xl: 1200px;
   --nav-link-hover-bg: #111;
   --text-color-meta: rgba(0,0,0,0.5);
 
-  --label-text: rgba(0,0,0,0.5);
+  --label-text: #303030;
   --input-focus-border: #83AAAC;
   
   // CSS Grid Utility

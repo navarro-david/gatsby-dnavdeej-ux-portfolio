@@ -2,6 +2,7 @@
 @import "defaults";
 @import "lib/css-grid-utility";
 
+
 // .primary-container {
 // 	display: grid;
 // 	grid-template-rows: 60px auto 60px;
@@ -15,7 +16,8 @@
   justify-content: space-between;
   align-items: center;
   position: relative;
-  background: var(--header-bg);
+	background: var(--header-bg);
+	box-shadow: 0px 4px 14px rgba(0,0,0,0.14);
   padding: 30px 20px;
 }
 .site-navigation {
@@ -97,24 +99,28 @@
 	margin: 0 auto;
 	max-width: 1240px;
 	padding: 0 20px;
+	background-color: var(--header-bg);
 }
 .site-logo {
-  font-weight: bold;
+	font-family: futura-pt, roboto, sans-serif;
+	font-weight: 900;
   a {
-    color: #fff;
+		transition: all .3s ease-in-out;
+    color: var(--label-text);
 		text-decoration: none;
 		&:hover {
 			color: #fff;
 		}
   }
   @media (max-width: $breakpoint-lg) {
-    font-size: 20px;
+    font-size: 2rem;
   }
 }
 .home-banner {
 	padding: 60px 0;
 	align-items: center;
 	.title {
+		font-family: futura-pt, sans-serif;
 		font-size: 48px;
 		line-height: 48px;
 		margin: 0 0 5px;
@@ -346,6 +352,7 @@ article img {
 	text-align: center;
 	font-size: 14px;
 	padding: 20px 0;
+	background: var(--header-bg);
 	p {
 		margin: 0;
 		color: #777
