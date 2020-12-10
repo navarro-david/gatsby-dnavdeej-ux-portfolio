@@ -5,7 +5,7 @@
     "description": "Coffee Hits Different",
     "siteUrl": "https://dnavdeej.com",
     "image": "/assets/android-chrome-512x512.png",
-    "iconimage": "/assets/favicon.ico",
+    "iconimage": "/assets/android-chrome-512x512.png",
     "twitterUsername": "@dnavdeej"
   },
   "ga": "UA-XXXXXXXXX-X"
