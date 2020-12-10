@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: main
+  repo: navarro-david/gatsby-dnavdeej-ux-portfolio
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
