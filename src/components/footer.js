@@ -1,11 +1,11 @@
 import React from "react"
 import {Link} from "gatsby"
-import { RiHeart2Line } from "react-icons/ri";
+import { BiCoffee } from "react-icons/bi";
 
 const Footer = () => (
   <footer className="site-footer">
     <div className="container">
-      <p>A GatsbyJS Starter for Netlify CMS, Made with <span className="icon -love"><RiHeart2Line/></span> by <Link to="/">Stackrole.com</Link></p>
+      <p>Coffee hits different <span className="icon"><BiCoffee/></span></p>
     </div>
   </footer>
 )
