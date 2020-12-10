@@ -73,7 +73,8 @@
       right: 0;
       top: 100%;
       z-index: 1;
-      background: #421E2F;
+			background: var(--header-bg);
+			box-shadow: 0 4px 4px rgba(0,0,0,0.14);
       width: 100%;
 			max-width: 320px;    
 			border-radius: 0 0 0 12px;
@@ -148,9 +149,8 @@
 }
 .post-card {
 	padding: 16px;
-	border: 1px solid rgba(0,0,0,0.08);
 	background-color:#fff;
-	box-shadow: 0 5px 10px rgba(0,0,0,0.05);
+	box-shadow: 0 4px 14px rgba(0,0,0,0.14);
 	border-radius: 12px;
 	transition: box-shadow .3s linear;
 	.featured-image {
@@ -169,8 +169,7 @@
 		}
 	}
 	&:hover {
-		border: 1px solid rgba(0,0,0,0.12);
-		box-shadow: 0 30px 60px rgba(0,0,0,0.1);
+		box-shadow: 0 30px 60px rgba(0,0,0,0.24);
 		.title {
 			color: var(--button-alternate-color);
 		}
@@ -254,20 +253,20 @@ article img {
 }
 // Buttons 
 .button {
-	--padding: 20px;
-	--margin: 20px;
+	--padding: 1rem;
+	--margin: 1rem;
 	display: inline-flex;
 	align-items: center;
 	padding: var(--padding) calc(var(--padding) * 2);
 	background-color: var( --button-alternate-color);
 	color: var(--button-color);
-	border-radius: 12px;
+	border-radius: 9999px;
 	text-decoration: none;
 	appearance: none;
 	border: none;
 	font-size: inherit;
 	line-height: 1;
-	transition: background .3s linear;
+	transition: background .3s ease-in-out;
 	&:hover {
 		background-color: var(--button-color);
 		color: var( --button-alternate-color);
