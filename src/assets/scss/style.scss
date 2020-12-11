@@ -50,7 +50,7 @@ main, html{
     font-size: 24px;
     background: none;
     border: none;
-    color: white;
+    color: var(--label-text);
     padding: 0;
     cursor: pointer;
   }
@@ -81,10 +81,8 @@ main, html{
       top: 100%;
       z-index: 1;
 			background: var(--header-bg);
-			box-shadow: 0 4px 4px rgba(0,0,0,0.14);
+			box-shadow: 0 14px 14px rgba(0,0,0,0.14);
       width: 100%;
-			max-width: 320px;    
-			border-radius: 0 0 0 12px;
       overflow: hidden;
     }
     ul li {
