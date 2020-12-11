@@ -34,15 +34,17 @@ main, html{
     margin-left: 20px;
   }
   a {
-    color: rgba(255,255,255,0.6);
-    text-decoration: none;
+    color: var(--label-text);
+		text-decoration: none;
+		transition: all 0.3s ease-in-out;
     &:hover {
-      color: rgba(255,255,255,0.8);
-    }
+      color: var(--label-text-hover);
+		}
+		&[aria-current="page"]{
+			font-weight: 900;
+		}
   }
-  a[aria-current="page"] {
-    color: rgba(255,255,255,1)
-  }
+ 
   .menu-trigger {
     display: none;
     font-size: 24px;
@@ -106,6 +108,7 @@ main, html{
 .site-logo {
 	font-family: futura-pt, roboto, sans-serif;
 	font-weight: 900;
+	font-size: 2rem;
   a {
 		transition: all .3s ease-in-out;
     color: var(--label-text);
@@ -114,9 +117,9 @@ main, html{
 			color: #fff;
 		}
   }
-  @media (max-width: $breakpoint-lg) {
-    font-size: 2rem;
-  }
+  // @media (max-width: $breakpoint-lg) {
+  //   font-size: 2rem;
+  // }
 }
 .home-banner {
 	padding: 60px 0;
@@ -140,10 +143,11 @@ main, html{
 		margin-bottom: 30px;
 	}
 	.featured-image {
-		border-radius: 12px;
-		margin: 16px;
-		box-shadow: 12px 12px 32px 0 rgba(0, 0, 0, .5),
-      -8px -8px 24px 0 rgba(255, 255, 255, .5);
+		margin: 32px;
+		// border-radius: 12px;
+		// margin: 16px;
+		// box-shadow: 12px 12px 32px 0 rgba(0, 0, 0, .5),
+    //   -8px -8px 24px 0 rgba(255, 255, 255, .5);
 	}
 	@media (max-width: $breakpoint-md) {
 		padding-top: 30px;
