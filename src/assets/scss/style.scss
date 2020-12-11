@@ -8,6 +8,9 @@
 // 	grid-template-rows: 60px auto 60px;
 // 	min-height: 100vh;
 // }
+main, html{
+	background: var(--bg);
+}
 .primary-container main {
 	min-height: calc(100vh - 60px - 81px);
 }
@@ -16,7 +19,7 @@
   justify-content: space-between;
   align-items: center;
   position: relative;
-	background: var(--header-bg);
+	background: var(--bg);
 	box-shadow: 0px 4px 14px rgba(0,0,0,0.14);
   padding: 30px 20px;
 }
@@ -99,7 +102,6 @@
 	margin: 0 auto;
 	max-width: 1240px;
 	padding: 0 20px;
-	background-color: var(--header-bg);
 }
 .site-logo {
 	font-family: futura-pt, roboto, sans-serif;
@@ -139,6 +141,9 @@
 	}
 	.featured-image {
 		border-radius: 12px;
+		margin: 16px;
+		box-shadow: 12px 12px 32px 0 rgba(0, 0, 0, .5),
+      -8px -8px 24px 0 rgba(255, 255, 255, .5);
 	}
 	@media (max-width: $breakpoint-md) {
 		padding-top: 30px;
@@ -155,9 +160,11 @@
 }
 .post-card {
 	padding: 16px;
-	background-color:#fff;
-	box-shadow: 0 4px 14px rgba(0,0,0,0.14);
-	border-radius: 12px;
+	// background-color:#fff;
+	// box-shadow: 0 4px 14px rgba(0,0,0,0.14);
+	box-shadow: 32px 32px 64px rgba(0,0,0,0.24),
+		-32px -32px 64px 0 rgba(255, 255, 255, .15);
+	border-radius: 24px;
 	transition: box-shadow .3s linear;
 	.featured-image {
 		border-radius: 12px;
@@ -352,7 +359,7 @@ article img {
 	text-align: center;
 	font-size: 14px;
 	padding: 20px 0;
-	background: var(--header-bg);
+	background: var(--bg);
 	p {
 		margin: 0;
 		color: #777
