@@ -4,7 +4,7 @@ slug: /
 title: David Navarro
 tagline: UX Designer
 featuredImage: /assets/portfolioprofile.png
-introduction: This is a test
+introduction: It's pronounced \[ dee-nav-deej ]
 cta:
   ctaText: View Resume
   ctaLink: /about
