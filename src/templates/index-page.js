@@ -50,7 +50,6 @@ const HomePage = ({ data }) => {
           <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
           <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}
           </Link>
-          {/* <div className="description" dangerouslySetInnerHTML={{__html: html}}/> */}
         </div>
         <div>
           {Image ? (
@@ -60,6 +59,7 @@ const HomePage = ({ data }) => {
               className="featured-image"
             />
           ) : ""}
+          <div className="pronunciation" dangerouslySetInnerHTML={{__html: frontmatter.introduction}}/>
         </div>
       </div>
       <BlogListHome/>
