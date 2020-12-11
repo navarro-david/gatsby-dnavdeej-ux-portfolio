@@ -4,6 +4,7 @@ slug: /
 title: David Navarro
 tagline: UX Designer
 featuredImage: /assets/portfolioprofile.png
+introduction: This is a test
 cta:
   ctaText: View Resume
   ctaLink: /about
