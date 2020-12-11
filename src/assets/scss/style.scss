@@ -120,7 +120,7 @@ main, html{
   // }
 }
 .home-banner {
-	padding: 60px 0;
+	padding: 64px 32px;
 	align-items: center;
 	.title {
 		font-family: futura-pt, sans-serif;
@@ -149,11 +149,6 @@ main, html{
 			padding-bottom: 30px;
 		}
 	}
-}
-
-.index-description{
-	padding: 60px 32px;
-		max-width: 600px;
 }
 
 .home-posts {
