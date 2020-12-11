@@ -4,7 +4,7 @@ slug: /
 title: David Navarro
 tagline: UX Designer
 featuredImage: /assets/portfolioprofile.png
-introduction: dnavdeej | [ dee-nav-deej ]
+introduction: it's, [ dee-nav-deej ]
 cta:
   ctaText: View Resume
   ctaLink: /about
