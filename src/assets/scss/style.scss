@@ -279,7 +279,7 @@ article img {
 	display: inline-flex;
 	align-items: center;
 	padding: var(--padding) calc(var(--padding) * 2);
-	background-color: var( --button-alternate-color);
+	background-color: var(--button-alternate-color);
 	color: #fff;
 	border-radius: 9999px;
 	text-decoration: none;
@@ -291,6 +291,7 @@ article img {
 	transition: all .3s ease-in-out;
 	&:hover {
 		background-color: var(--secondary-color);
+		box-shadow: 0 8px 12px rgba(#94D0B6,0.6);
 		color: #fff;
 	}
 	&.-outline {
