@@ -16,6 +16,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         tagline
+        introduction
         featuredImage {
           childImageSharp {
             fluid(quality: 80, srcSetBreakpoints: [960, 1440]) {
@@ -48,8 +49,8 @@ const HomePage = ({ data }) => {
           <p class="tagline">{frontmatter.tagline}</p>
           <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
           <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}
-          {/* <span class="icon -right"><RiArrowRightSLine/></span> */}
           </Link>
+          {/* <div className="description" dangerouslySetInnerHTML={{__html: html}}/> */}
         </div>
         <div>
           {Image ? (
