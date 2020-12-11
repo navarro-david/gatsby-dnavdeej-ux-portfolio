@@ -5,7 +5,7 @@ title: David Navarro
 tagline: UX Designer
 featuredImage: /assets/portfolioprofile.png
 cta:
-  ctaText: view resume
+  ctaText: VIEW RESUME
   ctaLink: /about
 ---
 I like coffee
