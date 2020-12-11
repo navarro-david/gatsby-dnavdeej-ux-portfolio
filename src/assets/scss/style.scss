@@ -91,10 +91,12 @@ main, html{
     }
     a {
       display: block;
-      padding: 20px;
+			padding: 20px;
+			transition: all .4s ease;
     }
     a:hover {
-      background-color: #29121D;
+			background-color:#94D0B6;
+			color: #303030;
     }
   }
 }
@@ -145,7 +147,7 @@ main, html{
 	.pronunciation{
 		text-align: center;
 		font-style: italic;
-		// font-size: 1.25rem;
+		font-weight: 900;
 		color: var(--home-link-color);
 	}
 	.featured-image {
