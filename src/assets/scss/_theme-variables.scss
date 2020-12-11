@@ -12,14 +12,17 @@ $breakpoint-xl: 1200px;
 	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   --font-size-small: 12px;
   
-  --primary-color: #F7A7AB;
+  // --primary-color: #F7A7AB;
+  --primary-color: #94D0B6;
+  --secondary-color: #50b288;
   --header-bg: #f3f9f5;
   --bg: #f3f9f5;
+  --bg-secondary: #e2f1e7;
 
-  --home-link-color: #94D0B6;
+  --home-link-color: #50b288;
   --home-link-hover-color:  var(--primary-color);
 
-  --button-color: #F7A7AB;
+  --button-color: var(--primary-color);
   --button-alternate-color: #303030;
 
   --post-link-color: #0F070B;

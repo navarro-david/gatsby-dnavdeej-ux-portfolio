@@ -10,6 +10,7 @@
 // }
 main, html{
 	background: var(--bg);
+	background: linear-gradient(45deg, var(--bg), var(--bg-secondary));
 }
 .primary-container main {
 	min-height: calc(100vh - 60px - 81px);
@@ -287,10 +288,10 @@ article img {
 	font-size: inherit;
 	font-weight: 500;
 	line-height: 1;
-	transition: background .3s ease-in-out;
+	transition: all .3s ease-in-out;
 	&:hover {
-		background-color: var(--button-color);
-		color: var( --button-alternate-color);
+		background-color: var(--secondary-color);
+		color: #fff;
 	}
 	&.-outline {
 		color: var(--primary-color);
