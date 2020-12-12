@@ -11,7 +11,7 @@ I work well alone and within teams. I get the job done at home and in the office
 
 People often ask me, how did you get the name **dnavdeej**? It's quite simple! I put two nicknames I go by together! Both are derived from letters from my name.
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+![Apple Products](/assets/resumeplasticassets.png " ")
 
 ## Interaction Designer
 
