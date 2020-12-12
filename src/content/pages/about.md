@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: About dnavdeej
 ---
-Currently, I am the main point person for UI Design solutions in our company. I am truly grateful to be challenged in this role given that I have recently completed my BS in Computer Science from SJSU in 2018. In this amount of time, I have been able to acquire a robust design skill set that I did not have straight out of college. From my 5 years of experience of front-end internships and my current UI Design position, I have been able to develop a deep understanding of both respective fields.\
+Currently, I am the main point person for UI Design solutions in our company. I am truly grateful to be challenged in this role given that I have recently completed my BS in Computer Science from SJSU in 2018. In this amount of time, I have been able to acquire a robust design skill set that I did not have straight out of college. From my 5 years of experience in front-end internships and my current UI Design position, I have been able to develop a deep understanding of both respective fields.\
 \
 As a designer, I am always iterating on better ways to solve solutions. If I had it my way, I would want to push out a new and better design every month! My favorite part of being a designer is being part of the visionary process. I love being able to solve complex problems and collaborating close to project managers to achieve effective solutions.\
 \
@@ -13,16 +13,26 @@ People often ask me, how did you get the name **dnavdeej**? It's quite simple! I
 
 ![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
 
-
-
 ## Interaction Designer
 
 ### Teletrac Navman | Pleasanton, CA
+
+##### January 2019 - Present, 1 year 11 months
 
 * Develop clean, high-fidelity prototypes using design software (Figma) or code (React) resulting in a 20% increase in customer satisfaction.
 * Establish a design system for both web and mobile applications using Figma and Sketch resulting in a 15% increase of development efficency.
 * Collaborating between multiple global internal and external teams.
 * Constantly iterating on designs and actively seeking feedback from product owners.
-* Interviewing customers to research opprotunities for new solutions within our industry resulting in a 15% increase in customer satisfaction. 
+* Interviewing customers to research opportunities for new solutions within our industry resulting in a 15% increase in customer satisfaction. 
 
-##### January 2019 - Present
+
+
+## Web Design Intern
+
+### Cru | San Jose, CA
+
+##### January 2018 - June 2018, 6 months
+
+* Complete website redesign for an umbrella organization, Epic Movement. This involved both design and implementation.
+* Carried out the rebranding of Epic Movement and increasing their online presence resulting in a 30% increase in discoverability and engagement.
+* Utilized Wordpress, PHP, and Javascript to create reusable components.
