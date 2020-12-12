@@ -9,9 +9,9 @@ As a designer, I am always iterating on better ways to solve solutions. If I had
 \
 I work well alone and within teams. I get the job done at home and in the office. (Or even in a coffee shop!) Give me a problem to solve and I won't stop thinking about it until we have a solid solution to chase and work with.
 
-People often ask me, how did you get the name **dnavdeej**? It's quite simple! I put two nicknames I go by together! Both are derived from letters from my name.
-
 ![Apple Products](/assets/resumeplasticassets.png " ")
+
+People often ask me, how did you get the name **dnavdeej**? It's quite simple! I put two nicknames I go by together! Both are derived from letters from my name.
 
 ## Interaction Designer
 
