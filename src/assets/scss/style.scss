@@ -360,6 +360,7 @@ article img {
 		appearance: none;
 		font-size: 18px;
 		font-weight: 600;
+		transition: all .3s linear;
 		&:focus {
 			border-color: var(--input-focus-border);
 		}
