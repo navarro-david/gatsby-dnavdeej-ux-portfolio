@@ -53,3 +53,11 @@ People often ask me, how did you get the name **dnavdeej**? It's quite simple! I
 
 * Created an Agile based task tracker using Angular, Bootstrap, and Pivotal Tracker API which increased internal productivity by 10%.
 * Gained a fundamental understanding of core front-end technologies.
+
+
+
+## Certifications
+
+**UX Research & Strategy** | DesignLab, Issued November 2020 [See credential](https://trydesignlab.com/certificates/ux-research-strategy/dnavdeej/)
+**Learning React.js** | Lynda.com, Issued January 2019 [See credential](http://www.lynda.com/React-js-tutorials/Learning-React-js/800214-2.html)
+**NoSQL Data Modeling Essential Training** | Lynda.com, Issued September 2018 [See credential](http://www.lynda.com/NoSQL-tutorials/NoSQL-Data-Modeling-Essential-Training/667381-2.html)
