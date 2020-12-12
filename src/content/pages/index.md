@@ -9,4 +9,4 @@ cta:
   ctaText: View Resume
   ctaLink: /about
 ---
-UX Designer by day, gamer by night, and plant parent all hours in between! I design for people, not users. I excel at empathizing with thier pain-points and understanding what causes them.
+UX Designer by day, gamer by night, and plant parent all hours in between! **I design for people, not users.** I excel at empathizing with their pain-points and understanding what causes them.
