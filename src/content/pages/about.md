@@ -35,4 +35,27 @@ People often ask me, how did you get the name **dnavdeej**? It's quite simple! I
 
 * Complete website redesign for an umbrella organization, Epic Movement. This involved both design and implementation.
 * Carried out the rebranding of Epic Movement and increasing their online presence resulting in a 30% increase in discoverability and engagement.
-* Utilized Wordpress, PHP, and Javascript to create reusable components.
+* Utilized WordPress, PHP, and Javascript to create reusable components.
+
+
+
+## Software Intern
+
+### TuringEye | San Jose, CA
+
+##### May 2016 - October 2016, 6 months
+
+* Developed the front-end UI for an AI-powered big data business analytics product
+* Iterated on multiple graph designs using D3 to display meaningful data insights
+* Primarily used Javascript, Angular, and CSS
+
+
+
+## Programming Intern
+
+### gloo | Boulder, CO
+
+##### June 2015 - July 2015, 2 months
+
+* Created an Agile based task tracker using Angular, Bootstrap, and Pivotal Tracker API which increased internal productivity by 10%.
+* Gained a fundamental understanding of core front-end technologies.
