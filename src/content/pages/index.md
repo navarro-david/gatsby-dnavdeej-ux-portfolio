@@ -9,4 +9,6 @@ cta:
   ctaText: View Resume
   ctaLink: /about
 ---
-As a designer, I am always iterating on better ways to solve solutions. If I had it my way, I would want to push out a new and better design every month! My favorite part of being a designer is being part of the visionary process. I love being able to solve complex problems and collaborating close to project managers to achieve effective solutions.
+UX Designer by day, gamer by night, and plant parent all hours in between! When I am not collaborating with global teams to innovate new ways to keep the trucking industry safe and cost-effective, I'm catching *dubs* with my wife in duos!
+
+I design for people, not users. I excel at empathizing with thier pain-points and understanding what causes them.
