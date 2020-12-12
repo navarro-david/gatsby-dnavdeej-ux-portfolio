@@ -20,7 +20,7 @@ People often ask me, how did you get the name **dnavdeej**? It's quite simple! I
 ##### January 2019 - Present, 1 year 11 months
 
 * Develop clean, high-fidelity prototypes using design software (Figma) or code (React) resulting in a 20% increase in customer satisfaction.
-* Establish a design system for both web and mobile applications using Figma and Sketch resulting in a 15% increase of development efficency.
+* Establish a design system for both web and mobile applications using Figma and Sketch resulting in a 15% increase of development efficiency.
 * Collaborating between multiple global internal and external teams.
 * Constantly iterating on designs and actively seeking feedback from product owners.
 * Interviewing customers to research opportunities for new solutions within our industry resulting in a 15% increase in customer satisfaction. 
@@ -54,10 +54,8 @@ People often ask me, how did you get the name **dnavdeej**? It's quite simple! I
 * Created an Agile based task tracker using Angular, Bootstrap, and Pivotal Tracker API which increased internal productivity by 10%.
 * Gained a fundamental understanding of core front-end technologies.
 
-
-
 ## Certifications
 
-**UX Research & Strategy** | DesignLab, Issued November 2020 [See credential](https://trydesignlab.com/certificates/ux-research-strategy/dnavdeej/)
-**Learning React.js** | Lynda.com, Issued January 2019 [See credential](http://www.lynda.com/React-js-tutorials/Learning-React-js/800214-2.html)
-**NoSQL Data Modeling Essential Training** | Lynda.com, Issued September 2018 [See credential](http://www.lynda.com/NoSQL-tutorials/NoSQL-Data-Modeling-Essential-Training/667381-2.html)
+* **UX Research & Strategy** | DesignLab, Issued November 2020 [See credential](https://trydesignlab.com/certificates/ux-research-strategy/dnavdeej/)
+* **Learning React.js** | Lynda.com, Issued January 2019 [See credential](http://www.lynda.com/React-js-tutorials/Learning-React-js/800214-2.html)
+* **NoSQL Data Modeling Essential Training** | Lynda.com, Issued September 2018 [See credential](http://www.lynda.com/NoSQL-tutorials/NoSQL-Data-Modeling-Essential-Training/667381-2.html)
