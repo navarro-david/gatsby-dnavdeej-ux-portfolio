@@ -7,4 +7,4 @@ description: Impressions on the User Research and Strategy short course provided
   by DesignLab.
 featuredImage: /assets/kelly-sikkema-boabpmrkls0-unsplash.jpg
 ---
-I want to write something here but I just got out of a 6-hour meeting. I will write something later!
+A couple weeks ago
