@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: About dnavdeej
 ---
-Currently, I am the main point person for UI Design solutions in our company. I am truly grateful to be challenged in this role given that I have recently completed my **BS in Computer Science from San Jose State University in 2018**. In this amount of time, I have been able to acquire a robust design skill set that I did not have straight out of college. From my **5 years of experience** in front-end internships and my current UI Design position, I have been able to develop a deep understanding of both respective fields.\
+Currently, I am the main point person for UI Design solutions in our company. I am truly grateful to be challenged in this role given that I have recently completed my **BS in Computer Science from San Jose State University in 2018**. In this amount of time, I have been able to acquire a robust design skill set that I did not have straight out of college. From my **4 years of experience** in front-end internships and my current UI Design position, I have been able to develop a deep understanding of both respective fields.\
 \
 As a designer, I am always iterating on better ways to solve solutions. If I had it my way, I would want to push out a new and better design every month! My favorite part of being a designer is being part of the visionary process. I love being able to solve complex problems and collaborating close to project managers to achieve effective solutions.\
 \
