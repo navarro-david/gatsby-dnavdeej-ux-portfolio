@@ -80,11 +80,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `dnavdeej`,
+        short_name: `dnavdeej`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        background_color: `#f3f9f5`,
+        theme_color: `#50b288`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
       },
