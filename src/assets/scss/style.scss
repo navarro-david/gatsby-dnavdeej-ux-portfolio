@@ -21,8 +21,7 @@ main, html{
   justify-content: space-between;
   align-items: center;
   position: relative;
-	background: var(--bg);
-	box-shadow: 0px 4px 14px rgba(0,0,0,0.14);
+	background: var(--header-bg);
   padding: 30px 20px;
 }
 .site-navigation {
@@ -375,7 +374,7 @@ article img {
 	text-align: center;
 	font-size: 14px;
 	padding: 20px 0;
-	background: var(--bg);
+	background: var(--header-bg);
 	p {
 		margin: 0;
 		color: #777
