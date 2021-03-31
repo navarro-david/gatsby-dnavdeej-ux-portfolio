@@ -6,6 +6,7 @@ import DrawBlob, { generatePoints } from "blob-animated"
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
+import { useEffect } from "react"
 
 
 
@@ -42,21 +43,34 @@ const HomePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const Image = frontmatter.featuredImage ? frontmatter.featuredImage.childImageSharp.fluid : ""
-	return (
-		<Layout>
-      <SEO/>
+
+  useEffect(() => {
+
+    const Blob1 = new DrawBlob({
+      canvas: document.getElementById('blob1'),
+      speed: 800,
+      scramble: 0.1,
+      color: '#C0DDCA',
+      vectors: generatePoints({ sides: 3 })
+    })
+  });
+
+
+  return (
+    <Layout>
+      <SEO />
       <div className="home-banner grids col-1 sm-2">
         <div>
           <h1 class="title">{frontmatter.title}</h1>
           <p class="tagline">{frontmatter.tagline}</p>
-          <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
+          <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
           <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}
           </Link>
         </div>
         <div className="featured-image-group">
           {Image ? (
-            <Img 
-              fluid={Image} 
+            <Img
+              fluid={Image}
               alt={frontmatter.title + ' - Featured image'}
               className="featured-image"
             />
@@ -64,18 +78,12 @@ const HomePage = ({ data }) => {
           <canvas id='blob1' />
         </div>
       </div>
-      <BlogListHome/>
-		</Layout>
-	)
+      <BlogListHome />
+    </Layout>
+  )
 }
 
-const Blob1 = new DrawBlob({
-  canvas: document.getElementById('blob1'),
-  speed: 800,
-  scramble: 0.1,
-  color: '#C0DDCA',
-  vectors: generatePoints({ sides: 3})
-});
+
 
 
 export default HomePage
