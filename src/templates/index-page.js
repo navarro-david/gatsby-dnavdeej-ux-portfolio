@@ -53,6 +53,22 @@ const HomePage = ({ data }) => {
       color: '#C0DDCA',
       vectors: generatePoints({ sides: 3 })
     })
+
+    const Blob2 = new DrawBlob({
+      canvas: document.getElementById('blob2'),
+      speed: 1000,
+      scramble: 0.1,
+      color: '#94D0B6',
+      vectors: generatePoints({ sides: 6 })
+    })
+
+    const Blob3 = new DrawBlob({
+      canvas: document.getElementById('blob3'),
+      speed: 1300,
+      scramble: 0.1,
+      color: '#94D0B6',
+      vectors: generatePoints({ sides: 3 })
+    })
   });
 
 
@@ -76,6 +92,8 @@ const HomePage = ({ data }) => {
             />
           ) : ""}
           <canvas id='blob1' />
+          <canvas id='blob2' />
+          <canvas id='blob3' />
         </div>
       </div>
       <BlogListHome />
