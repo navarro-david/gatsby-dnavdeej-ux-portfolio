@@ -1,11 +1,22 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
-import { RiArrowRightSLine } from "react-icons/ri"
+import DrawBlob, { generatePoints } from "blob-animated"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
+
+
+const Blob1 = new DrawBlob({
+  canvas: document.getElementById('blob1'),
+  speed: 800,
+  scramble: 0.1,
+  color: '#C0DDCA',
+  vectors: generatePoints({ sides: 3})
+});
+
+
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
@@ -51,7 +62,7 @@ const HomePage = ({ data }) => {
           <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}
           </Link>
         </div>
-        <div>
+        <div className="featured-image-group">
           {Image ? (
             <Img 
               fluid={Image} 
@@ -60,6 +71,7 @@ const HomePage = ({ data }) => {
             />
           ) : ""}
           <div className="pronunciation" dangerouslySetInnerHTML={{__html: frontmatter.introduction}}/>
+          {/* <canvas id='blob1' /> */}
         </div>
       </div>
       <BlogListHome/>

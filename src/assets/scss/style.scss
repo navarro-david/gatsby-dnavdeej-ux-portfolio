@@ -8,6 +8,19 @@
 // 	grid-template-rows: 60px auto 60px;
 // 	min-height: 100vh;
 // }
+
+.featured-image-group{
+	position: relative;
+}
+
+#blob1{
+	width: 50%;
+	position: absolute;
+	top: 0;
+	left: -12%;
+	
+}
+
 main, html{
 	background: var(--bg);
 	background: linear-gradient(45deg, var(--bg), var(--bg-secondary));
