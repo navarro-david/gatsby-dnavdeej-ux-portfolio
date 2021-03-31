@@ -8,15 +8,6 @@ import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
 
 
-const Blob1 = new DrawBlob({
-  canvas: document.getElementById('blob1'),
-  speed: 800,
-  scramble: 0.1,
-  color: '#C0DDCA',
-  vectors: generatePoints({ sides: 3})
-});
-
-
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
@@ -70,7 +61,6 @@ const HomePage = ({ data }) => {
               className="featured-image"
             />
           ) : ""}
-          <div className="pronunciation" dangerouslySetInnerHTML={{__html: frontmatter.introduction}}/>
           {/* <canvas id='blob1' /> */}
         </div>
       </div>
@@ -78,5 +68,14 @@ const HomePage = ({ data }) => {
 		</Layout>
 	)
 }
+
+// const Blob1 = new DrawBlob({
+//   canvas: document.getElementById('blob1'),
+//   speed: 800,
+//   scramble: 0.1,
+//   color: '#C0DDCA',
+//   vectors: generatePoints({ sides: 3})
+// });
+
 
 export default HomePage
