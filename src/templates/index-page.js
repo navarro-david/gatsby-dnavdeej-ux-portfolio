@@ -61,7 +61,7 @@ const HomePage = ({ data }) => {
               className="featured-image"
             />
           ) : ""}
-          {/* <canvas id='blob1' /> */}
+          <canvas id='blob1' />
         </div>
       </div>
       <BlogListHome/>
@@ -69,13 +69,13 @@ const HomePage = ({ data }) => {
 	)
 }
 
-// const Blob1 = new DrawBlob({
-//   canvas: document.getElementById('blob1'),
-//   speed: 800,
-//   scramble: 0.1,
-//   color: '#C0DDCA',
-//   vectors: generatePoints({ sides: 3})
-// });
+const Blob1 = new DrawBlob({
+  canvas: document.getElementById('blob1'),
+  speed: 800,
+  scramble: 0.1,
+  color: '#C0DDCA',
+  vectors: generatePoints({ sides: 3})
+});
 
 
 export default HomePage
