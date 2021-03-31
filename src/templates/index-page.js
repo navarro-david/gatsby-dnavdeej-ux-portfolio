@@ -47,7 +47,7 @@ const HomePage = ({ data }) => {
   useEffect(() => {
 
     const Blob1 = new DrawBlob({
-      canvas: document.getElementById('blob1'),
+      canvas: document.getElementById('pp-blob1'),
       speed: 800,
       scramble: 0.1,
       color: '#C0DDCA',
@@ -55,7 +55,7 @@ const HomePage = ({ data }) => {
     })
 
     const Blob2 = new DrawBlob({
-      canvas: document.getElementById('blob2'),
+      canvas: document.getElementById('pp-blob2'),
       speed: 1000,
       scramble: 0.1,
       color: '#94D0B6',
@@ -63,7 +63,7 @@ const HomePage = ({ data }) => {
     })
 
     const Blob3 = new DrawBlob({
-      canvas: document.getElementById('blob3'),
+      canvas: document.getElementById('pp-blob3'),
       speed: 1300,
       scramble: 0.1,
       color: '#94D0B6',
@@ -91,9 +91,9 @@ const HomePage = ({ data }) => {
               className="featured-image"
             />
           ) : ""}
-          <canvas id='blob1' />
-          <canvas id='blob2' />
-          <canvas id='blob3' />
+          <canvas id='pp-blob1' />
+          <canvas id='pp-blob2' />
+          <canvas id='pp-blob3' />
         </div>
       </div>
       <BlogListHome />

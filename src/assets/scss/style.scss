@@ -3,12 +3,6 @@
 @import "lib/css-grid-utility";
 
 
-// .primary-container {
-// 	display: grid;
-// 	grid-template-rows: 60px auto 60px;
-// 	min-height: 100vh;
-// }
-
 .featured-image-group{
 	position: relative;
 	.featured-image{
@@ -17,7 +11,7 @@
 	}
 }
 
-#blob1{
+#pp-blob1{
 	width: 50%;
 	position: absolute;
 	top: 0;
@@ -25,7 +19,7 @@
 	z-index: 3;
 }
 
-#blob2{
+#pp-blob2{
 	width: 90%;
 	position: absolute;
 	top: -15%;
@@ -33,7 +27,7 @@
 	z-index: 1;
 }
 
-#blob3{
+#pp-blob3{
 	width: 30%;
 	position: absolute;
 	top: 50%;
