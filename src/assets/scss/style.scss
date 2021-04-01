@@ -132,7 +132,7 @@ main, html{
 .container {
 	margin: 0 auto;
 	max-width: 1240px;
-	padding: 0 20px;
+	padding: 0 32px;
 }
 .site-logo {
 	font-family: futura-pt, roboto, sans-serif;
@@ -215,7 +215,8 @@ main, html{
 		font-family: futura-pt, roboto, sans-serif;
 		color: var(--label-text);
 		margin: 0 0 3px;
-		font-size: 24px;
+		font-size: 32px;
+		line-height: 30px;
 		font-weight: 900;
 		a { 
 			color: var(--post-link-color);
@@ -231,6 +232,12 @@ main, html{
 		margin: 0;
 		font-size: 12px;
 		color: rgba(0,0,0,0.5);
+	}
+	.preview {
+		margin-bottom: 0;
+		font-size: 20px;
+		color: var(--color-forest);
+		font-weight: 500;
 	}
 	.post-content {
 		margin-top: 16px;

@@ -12,31 +12,33 @@ $breakpoint-xl: 1200px;
 	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   --font-size-small: 12px;
   
-  // --primary-color: #F7A7AB;
-  --primary-color: #94D0B6;
-  --secondary-color: #50b288;
+  --color-mint: #C0DDCA;
+  --color-teal: #94D0B6;
+  --color-emerald: #50b288;
+  --color-forest: #4E6362;
+  --color-stone: #8C726E;
+  --color-strawberry: #F7A7AB;
+  --color-black: #303030;
+  --color-white: #FCFCFC;
+
+  --primary-color: var(--color-teal);
+  --secondary-color: var(--color-emerald);
   --header-bg: none;
   --bg: #f3f9f5;
   --bg-secondary: #e2f1e7;
 
-  --home-link-color: #50b288;
+  --home-link-color: var(--color-emerald);
   --home-link-hover-color:  var(--primary-color);
 
-  --button-color: #303030;
+  --button-color: var(--color-black);
   --button-alt-color: var(--primary-color);
 
-  --post-link-color: #0F070B;
-
-
-  --nav-link-hover-bg: #5f5f5f;
-  --text-color-meta: rgba(0,0,0,0.5);
-
-  --label-text: #303030;
-  --label-text-hover: #5f5f5f;
-  // --input-focus-border: #F7A7AB;
+  --post-link-color: var(--color-black);
+  --text-color-meta: #969696;
+  --label-text: var(--color-black);
   --input-focus-border: var(--primary-color);
   
   // CSS Grid Utility
-  --grid-gap: 30px; 
+  --grid-gap: 42px; 
 
 }
