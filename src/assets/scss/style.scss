@@ -212,9 +212,11 @@ main, html{
 		}
 	}
 	.title {
+		font-family: futura-pt, roboto, sans-serif;
+		color: var(--label-text);
 		margin: 0 0 3px;
-		font-size: 20px;
-		font-weight: 600;
+		font-size: 24px;
+		font-weight: 900;
 		a { 
 			color: var(--post-link-color);
 		}
