@@ -45,7 +45,13 @@ collections:
           required: false,
           tagname: ''
         }
-
+      - {
+          label: 'Preview Description',
+          name: 'preview',
+          widget: 'string',
+          required: false,
+          default: 'UX Design'
+        }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
   - label: "Pages"
     name: "pages"
