@@ -6,6 +6,7 @@ date: 2020-12-11 18:15
 description: Impressions on the User Research and Strategy short course provided
   by DesignLab.
 featuredImage: /assets/kelly-sikkema-boabpmrkls0-unsplash.jpg
+preview: UX Design
 ---
 This past year, I found myself being the only in-house UX Designer at Teletrac Navman. While I enjoyed the challenges that come from being the main point person for design-related solutions, candidly, being a team of one lacks friction that fosters growth. To mitigate address the gaps in the necessary skills that make a successful UX Designer, I began researching for online UX courses.
 
