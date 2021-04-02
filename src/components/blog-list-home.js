@@ -35,7 +35,7 @@ export default function BlogListHome() {
                   preview
                   featuredImage {
                     childImageSharp {
-                      fluid(maxWidth: 360, maxHeight: 360, quality: 80) {
+                      fluid(maxWidth: 540, maxHeight: 360, quality: 80) {
                         ...GatsbyImageSharpFluid
                         ...GatsbyImageSharpFluidLimitPresentationSize
                       }

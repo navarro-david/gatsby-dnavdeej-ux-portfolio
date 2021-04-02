@@ -48,7 +48,7 @@ class Navigation extends React.Component {
           <div className="icon-menu-line"><RiMenu3Line/></div>
           <div className="icon-menu-close"><RiCloseLine/></div>
         </button>
-        <ul>
+        <ul className="menu-list">
           {listMenuItems}
         </ul>
       </nav>
