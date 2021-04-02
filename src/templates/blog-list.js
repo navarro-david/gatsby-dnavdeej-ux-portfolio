@@ -4,6 +4,7 @@ import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 
 import Layout from "../components/layout"
 import PostCard from "../components/post-card"
+import { Diamond, Ring, Cube, Polygon, Sphere } from '../components/shapes'
 import SEO from "../components/seo"
 
 export const blogListQuery = graphql`
@@ -103,6 +104,11 @@ class BlogIndex extends React.Component {
         <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>
+        <Diamond />
+        <Ring />
+        <Cube />
+        <Polygon />
+        <Sphere />
         <Pagination {...props} />
       </Layout>
     )
