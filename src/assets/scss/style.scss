@@ -168,7 +168,7 @@ main, html{
 		margin-top: 0;
 		margin-left: 2px;
 		font-weight: bold;
-		color: var(--home-link-color);
+		color: var(--color-forest);
 	}
 	.description {
 		font-size: 20px;
@@ -194,8 +194,16 @@ main, html{
 }
 
 .home-posts {
+	.title {
+		font-family: var(--font-family-header);
+		font-size: 32px;
+		font-weight: 900;
+	}
 	.grids {
-		padding-bottom: 30px;
+		padding-bottom: 48px;
+	}
+	.button {
+		margin-left: 24px;
 	}
 	padding-bottom: 100px;
 }

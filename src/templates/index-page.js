@@ -60,7 +60,7 @@ const HomePage = ({ data }) => {
       canvas: document.getElementById('pp-blob2'),
       speed: 1000,
       scramble: 0.1,
-      color: '#94D0B6',
+      color: '#50b288',
       vectors: generatePoints({ sides: 6 })
     })
 
