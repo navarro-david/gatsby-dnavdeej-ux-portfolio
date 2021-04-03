@@ -104,11 +104,11 @@ class BlogIndex extends React.Component {
         <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>
-        {/* <Diamond />
+        <Diamond />
         <Ring />
         <Cube />
         <Polygon />
-        <Sphere /> */}
+        <Sphere />
         <Pagination {...props} />
       </Layout>
     )
