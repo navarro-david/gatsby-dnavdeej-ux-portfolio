@@ -5,6 +5,7 @@ import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 import Layout from "../components/layout"
 import PostCard from "../components/post-card"
 import { Diamond, Ring, Cube, Polygon, Sphere } from '../components/shapes'
+import {useSpring, animated} from 'react-spring'
 import SEO from "../components/seo"
 
 export const blogListQuery = graphql`
@@ -38,6 +39,9 @@ export const blogListQuery = graphql`
     }
   }
 `
+
+
+
 const Pagination = (props) => (
   <div className="pagination">
     <ul>
@@ -69,8 +73,9 @@ const Pagination = (props) => (
   </div>
 )
 class BlogIndex extends React.Component {
+  
   render() {
-    
+    // const diamondAnimation = useSpring({opacity: 1, from: {opacity: 0}});
     const { data } = this.props
     const { currentPage, numPages } = this.props.pageContext
     const blogSlug = '/blog/' 
@@ -78,6 +83,8 @@ class BlogIndex extends React.Component {
     const isLast = currentPage === numPages
     const prevPage = currentPage - 1 === 1 ? blogSlug : blogSlug + (currentPage - 1).toString()
     const nextPage = blogSlug + (currentPage + 1).toString()
+    
+    
 
     const posts = data.allMarkdownRemark.edges
       .filter(edge => !!edge.node.frontmatter.date)
@@ -104,6 +111,7 @@ class BlogIndex extends React.Component {
         <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>
+        {/* <animated.div style={diamondAnimation}> <Diamond /> </animated.div> */}
         <Diamond />
         <Ring />
         <Cube />
