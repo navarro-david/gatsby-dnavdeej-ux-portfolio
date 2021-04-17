@@ -9,18 +9,18 @@ const PostCard = ({ data }) => {
 
 
   return (
-    <article className='post-card'>
+    <Link to={data.frontmatter.slug} className='post-card'>
       {data.frontmatter.featuredImage ?
         (
-          <Link to={data.frontmatter.slug}>
-            <Img
-              fluid={data.frontmatter.featuredImage.childImageSharp.fluid}
-              objectFit="cover"
-              objectPosition="50% 50%"
-              alt={data.frontmatter.title + ' - Featured image'}
-              className="featured-image"
-            />
-          </Link>
+
+          <Img
+            fluid={data.frontmatter.featuredImage.childImageSharp.fluid}
+            objectFit="cover"
+            objectPosition="50% 50%"
+            alt={data.frontmatter.title + ' - Featured image'}
+            className="featured-image"
+          />
+
         ) : ""
       }
       <div class="post-content">
@@ -28,7 +28,7 @@ const PostCard = ({ data }) => {
         <p className="preview"><time>{data.frontmatter.preview}</time></p>
         <p className="meta"><time>{data.frontmatter.date}</time></p>
       </div>
-    </article>
+    </Link>
   )
 }
 
