@@ -7,10 +7,11 @@ const MenuItems = [
     path: "/",
     title: "Home"
   },
-  {
-    path: "/about",
-    title: "About"
-  },
+  // About Page, removing for now.
+  // {
+  //   path: "/about",
+  //   title: "About"
+  // },
   {
     path: "/blog",
     title: "Blog"
