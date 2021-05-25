@@ -29,7 +29,7 @@ A good friend of mine finds herself daydreaming of the good old days of the '90s
 
 For a season, I wanted to create t-shirts. My dream was to create simple and subtle designs so that you could match my shirts with many outfits. Many of my designs remain in the sketch phase even to this day. The logistics of printing, storing, and selling shirts became more than I could handle at the time. I hope to be able to pick up on this side project once again.
 
-![Unseen Threads Logo](/assets/2021endofyearparty_unseenthreads-ghostlogo-white-4x.png "Unseen Threads Ghost")
+![Unseen Threads Logo](/assets/2021endofyearparty_unseenthreads-ghostlogo-social-v2-4x.png "Unseen Threads Ghost")
 
 Even though I have not been able to focus on this hustle recently, I was able to collaborate with my church to create a design. With their help, I was actually able to sell just about 200 shirts! Here is a photo of the finished product.
 
