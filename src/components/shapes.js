@@ -6,6 +6,7 @@ const calc = (x, y) => [-(y - window.innerHeight / 2) / 20, (x - window.innerWid
 const trans = (x, y, s) => `perspective(600px) rotateX(${x}deg) rotateY(${y}deg) scale(${s})`
 
 
+// export const Diamond = () => <StaticImage src="../../static/assets/logos/Cru.svg" alt="A nice diamond shape" layout="fixed" width={200} placeholder='tracedSVG' />
 export const Diamond = () => <StaticImage src="../../static/assets/shapes/Shape1.png" alt="A nice diamond shape" layout="fixed" width={200} placeholder='tracedSVG' />
 export const Ring = () => <StaticImage src="../../static/assets/shapes/Shape2.png" alt="A nice ring shape" layout="fixed" width={200} placeholder='tracedSVG' />
 export const Cube = () => <StaticImage src="../../static/assets/shapes/Shape3.png" alt="A nice cube shape" layout="fixed" width={200} placeholder='tracedSVG' />

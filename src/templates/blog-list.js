@@ -112,8 +112,8 @@ class BlogIndex extends React.Component {
           {posts}
         </div>
         {/* <animated.div style={diamondAnimation}> <Diamond /> </animated.div> */}
-        {/* <Diamond />
-        <Ring />
+        {/* <Diamond /> */}
+        {/* <Ring />
         <Cube />
         <Polygon />
         <Sphere /> */}
