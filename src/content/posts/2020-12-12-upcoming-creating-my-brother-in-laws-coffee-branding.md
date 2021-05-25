@@ -33,7 +33,7 @@ For a season, I wanted to create t-shirts. My dream was to create simple and sub
 
 Even though I have not been able to focus on this hustle recently, I was able to collaborate with my church to create a design. With their help, I was actually able to sell just about 200 shirts! Here is a photo of the finished product.
 
-![Photo of me and my wife wearing a shirt I designed.](/assets/img_2178.jpg "My wife and I wearing teh Unseen Threads x Awakening floral shirt.")
+![Photo of me and my wife wearing a shirt I designed.](/assets/img_2178.jpg "My wife and I wearing the Unseen Threads x Awakening floral shirt")
 
 ## Tarolyn
 
