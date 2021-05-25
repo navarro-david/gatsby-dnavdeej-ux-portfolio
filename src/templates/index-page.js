@@ -107,7 +107,7 @@ const HomePage = ({ data }) => {
           /> */}
         </div>
       </div>
-      <h1>Projects and Case Studies</h1>
+      <h1 className='title'>Projects and Case Studies</h1>
       <BlogListHome />
     </Layout>
   )
