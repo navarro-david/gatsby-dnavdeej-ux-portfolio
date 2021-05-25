@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: "UPCOMING: Branding my Brother-in-Law's Coffee Company"
-slug: branding-three-cheers-coffee
+title: Logo Design is my Passion
+slug: logo-design-is-my-passion
 date: 2020-12-11 23:48
-description: What I learned from branding my brother-in-law's coffee company.
-featuredImage: /assets/threecheerscoffeelanding.png
-preview: "Logo Design • Branding "
+description: A small collection of the logos I have created.
+featuredImage: /assets/thumbnail-logos.png
+preview: Logo Design • Graphic Design
 ---
-Still writing this up, stay tuned!
+Here's something a little different.
