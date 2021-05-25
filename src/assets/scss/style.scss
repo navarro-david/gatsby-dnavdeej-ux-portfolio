@@ -251,10 +251,11 @@ main, html{
 		color: rgba(0,0,0,0.5);
 	}
 	.preview {
-		margin-bottom: 0;
+		margin-bottom: 8px;
 		font-size: 20px;
 		color: var(--color-forest);
 		font-weight: 500;
+		line-height: 1;
 	}
 	.post-content {
 		flex-grow: 1;
