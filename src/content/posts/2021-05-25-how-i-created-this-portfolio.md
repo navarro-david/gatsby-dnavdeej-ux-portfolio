@@ -25,10 +25,8 @@ The part I am most proud of about this site is it being built using React. Prior
 
 For this site, I used a site builder library called [Gatsby.js](https://www.gatsbyjs.com/), written using React. What I love about this site is how simple it is to create pages and properly manage the links between them. Gatsby also has the ability to download styling frameworks, like SASS, from the get-go. I especially love the ease of implementing a content management system, like [Netlify CMS](https://www.netlifycms.org/), to make publishing posts like this one, quick and easy.
 
-The ultimate benefit of building my portfolio with React is the control. As someone who spends way too much time making sure the pixels in my prototype line up, having complete control over how the site is rendered is my dream. React truly helps me craft this site meticulously, just like how any creative person should.
+The ultimate benefit of building my portfolio with React is the control. As someone who spends way too much time making sure the pixels in my prototypes line up, having complete control over how the site is rendered is a dream come true. React truly helps me craft this site meticulously, just like how any creative person would.
 
 At the time of creating this post, you can see that this live site is only a fraction of what I mocked in Figma. I plan to continue to add more content as time permits so please stay tuned for more projects in the future!
-
-
 
 <!--EndFragment-->
