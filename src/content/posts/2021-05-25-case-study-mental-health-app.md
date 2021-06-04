@@ -22,8 +22,6 @@ So, I asked myself could I create an app that helps us engage with awkward conve
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## Research Planning and Execution
@@ -46,8 +44,6 @@ In the course of two weeks, I was able to complete the research process. I will 
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## Take-Aways from My Research
@@ -66,13 +62,11 @@ Instead, I need to be intentional about getting feedback from various demographi
 
 Secondly, in future researches, we need more time. Healing from emotional wounds takes time and I should expect the data to become richer over time as well. With more Dairy Study entries, we can get further feedback to see if our solution really is truly effective or not. It is important to note that this process doesn’t stop at the delivery of the product but ongoing validation and feedback is crucial.
 
-![Diagram comparing Waterfall and Agile workflows.](/assets/ux-delivery.png "The Agile workflow would allow us to recieve constant feedback from users.")
+![Diagram comparing Waterfall and Agile workflows.](/assets/ux-delivery.png "The Agile workflow would allow us to receive constant feedback from users.")
 
 Finally, I believe receiving feedback from professional therapists will give a deeper insight into techniques that we could implement into our platform. We can get a better understanding of the hurdles that keep people from talking about their mental health and provide solutions that encourage those conversations.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
