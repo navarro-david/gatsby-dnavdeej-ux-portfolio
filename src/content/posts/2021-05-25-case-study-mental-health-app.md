@@ -10,6 +10,8 @@ preview: Case Study • User Research
 ---
 <!--StartFragment-->
 
+If you are interested in the documents created during this course with DesignLab, check it out [here](https://www.figma.com/file/YhsOddOdM3LjuIgce3HQao/DesignLab?node-id=13%3A59)!
+
 How do we feel so alone in a world so connected? We live in an age where distance is not a factor in communication and our close ones are a text or call away. Yet, our internal struggles, doubts, and sadness go unnoticed behind our digital screens.
 
 I am obsessed with this paradox as I live it every day. I consider myself well-loved by my friends and family, but they still are unaware of the battles that rage within my head. I have lived this way for at least the past decade, fending off self-deprecating thoughts and scraping for purpose in places where there seem to be none. In my experience, it has been the relationships with intentional, loving people that have got me through the hard times. It is those uncomfortable talks and the feeling of being raw that continues to help me heal.
@@ -21,8 +23,6 @@ I love the mission of [Seize the Awkward](https://seizetheawkward.org/) and I ha
 So, I asked myself could I create an app that helps us engage with awkward conversations? Then I realized, Discord exists! So I reframed the question and asked, **could I create an app that helps us engage with difficult conversions about mental health?**
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -46,8 +46,6 @@ In the course of two weeks, I was able to complete the research process. I will 
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## Take-Aways from My Research
@@ -66,13 +64,11 @@ Instead, I need to be intentional about getting feedback from various demographi
 
 Secondly, in future researches, we need more time. Healing from emotional wounds takes time and I should expect the data to become richer over time as well. With more Dairy Study entries, we can get further feedback to see if our solution really is truly effective or not. It is important to note that this process doesn’t stop at the delivery of the product but ongoing validation and feedback is crucial.
 
-![Diagram comparing Waterfall and Agile workflows.](/assets/ux-delivery.png "The Agile workflow would allow us to recieve constant feedback from users.")
+![Diagram comparing Waterfall and Agile workflows.](/assets/ux-delivery.png "The Agile workflow would allow us to receive constant feedback from users.")
 
 Finally, I believe receiving feedback from professional therapists will give a deeper insight into techniques that we could implement into our platform. We can get a better understanding of the hurdles that keep people from talking about their mental health and provide solutions that encourage those conversations.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 

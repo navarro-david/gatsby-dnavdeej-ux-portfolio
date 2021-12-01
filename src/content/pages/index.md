@@ -11,4 +11,4 @@ cta:
 ---
 UX Designer by day, gamer by night, and plant parent all hours in between! I excel at empathizing with people's pain points and understanding what causes them. Additionally, I have experience developing beautiful and functional user interfaces using React. 
 
-**Design for people, not for profit.**
+**Design for people, not just users.**
