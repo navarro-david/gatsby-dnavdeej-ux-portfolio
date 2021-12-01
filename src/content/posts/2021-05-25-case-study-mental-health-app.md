@@ -10,6 +10,8 @@ preview: Case Study • User Research
 ---
 <!--StartFragment-->
 
+If you are interested in the documents created during this course with DesignLab, check it out [here](https://www.figma.com/file/YhsOddOdM3LjuIgce3HQao/DesignLab?node-id=13%3A59)!
+
 How do we feel so alone in a world so connected? We live in an age where distance is not a factor in communication and our close ones are a text or call away. Yet, our internal struggles, doubts, and sadness go unnoticed behind our digital screens.
 
 I am obsessed with this paradox as I live it every day. I consider myself well-loved by my friends and family, but they still are unaware of the battles that rage within my head. I have lived this way for at least the past decade, fending off self-deprecating thoughts and scraping for purpose in places where there seem to be none. In my experience, it has been the relationships with intentional, loving people that have got me through the hard times. It is those uncomfortable talks and the feeling of being raw that continues to help me heal.
