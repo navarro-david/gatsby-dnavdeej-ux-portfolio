@@ -50,7 +50,7 @@ const HomePage = ({ data }) => {
 
     const Blob1 = new DrawBlob({
       canvas: document.getElementById('pp-blob1'),
-      speed: 800,
+      speed: 400,
       scramble: 0.1,
       color: '#C0DDCA',
       vectors: generatePoints({ sides: 3 })
@@ -58,7 +58,7 @@ const HomePage = ({ data }) => {
 
     const Blob2 = new DrawBlob({
       canvas: document.getElementById('pp-blob2'),
-      speed: 1000,
+      speed: 500,
       scramble: 0.1,
       color: '#50b288',
       vectors: generatePoints({ sides: 6 })
@@ -66,7 +66,7 @@ const HomePage = ({ data }) => {
 
     const Blob3 = new DrawBlob({
       canvas: document.getElementById('pp-blob3'),
-      speed: 1300,
+      speed: 650,
       scramble: 0.1,
       color: '#94D0B6',
       vectors: generatePoints({ sides: 3 })
