@@ -9,6 +9,8 @@ cta:
   ctaText: View Resume
   ctaLink: https://www.figma.com/proto/CDR9fePXJCS0CpUmNwgWgE/Resume?node-id=101%3A2455&scaling=min-zoom
 ---
-UX Designer by day, gamer by night, and plant parent all hours in between! I excel at empathizing with people's pain points and understanding what causes them. Additionally, I have experience developing beautiful and functional user interfaces using React. 
+Coffee powered, rock climbing, UX designer, plant parent. **whew!** 
 
-**Design for people, not just users.**
+I excel at empathizing with people's pain points and innately understanding what causes them. I've been in the tech industry since 2015 as a front-end developer and now a UI/UX designer. I am skilled in innovating SAAS, industry-leading, enterprise software.
+
+**Design for people, not just users.** This is how we understand complex problems to create intuitive and powerful solutions.
