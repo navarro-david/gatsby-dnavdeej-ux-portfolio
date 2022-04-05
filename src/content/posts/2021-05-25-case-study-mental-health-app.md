@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Case Study: Mental Health App"
+title: "Design Process: Mental Health App"
 slug: /case-study_mental-health-app
 date: 2020-12-13 08:57
 description: What if there was an application that helped us have difficult but
@@ -10,7 +10,7 @@ preview: Case Study • User Research
 ---
 <!--StartFragment-->
 
-If you are interested in the documents created during this course with DesignLab, check it out [here](https://www.figma.com/file/YhsOddOdM3LjuIgce3HQao/DesignLab?node-id=13%3A59)!
+*If you are interested in the documents created during this course with DesignLab, check it out [here](https://www.figma.com/file/YhsOddOdM3LjuIgce3HQao/DesignLab?node-id=13%3A59)!*
 
 How do we feel so alone in a world so connected? We live in an age where distance is not a factor in communication and our close ones are a text or call away. Yet, our internal struggles, doubts, and sadness go unnoticed behind our digital screens.
 
