@@ -496,6 +496,9 @@ article img {
 		max-width: 768px;
 		margin: 0 auto;
 	}
+	@media (max-width: $breakpoint-md) {
+		padding: 24px;
+	}
 }
 // Contact page
 .contact-page {
