@@ -114,7 +114,7 @@ const HomePage = ({ data }) => {
         subheader="Teletrac Navman | Bay Area, CA">
         <strong>January 2019 - Present</strong>
         <ul>
-          <li>Innovating and iterating on <strong>enterprise</strong> SASS web and mobile applications</li>
+          <li>Innovating and iterating on <strong>enterprise</strong> SAAS web and mobile applications</li>
           <li>Developing intuitive, <strong>high-fidelity</strong> prototypes using Figma and React</li>
           <li>Collaborating and leading global teams to align with <strong>design systems</strong> and user experiences</li>
           <li>Conducting qualitative and quantitative UX research for project stakeholders</li>
@@ -134,6 +134,8 @@ const HomePage = ({ data }) => {
         </ul>
       </IndexCard>
 
+      
+
       {/* Turing Eye */}
       <IndexCard
         header="Software Intern"
@@ -143,6 +145,7 @@ const HomePage = ({ data }) => {
           <li>Front-end development for AI-Big data analytics start-up</li>
           <li>Designed various graphs using D3.js to visualize trends in abstract data points</li>
         </ul>
+        
       </IndexCard>
       
       {/* Gloo */}
@@ -166,6 +169,8 @@ const HomePage = ({ data }) => {
           <li><strong>Web Development Foundations: Full Stack vs. Front End</strong> | LinkedIn, Issued January 2018</li>
         </ul>
       </IndexCard>
+
+     
 
       {/* College */}
       <IndexCard
