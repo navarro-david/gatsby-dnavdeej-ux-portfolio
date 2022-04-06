@@ -5,7 +5,7 @@ slug: /how-i-created-this-portfolio
 date: 2021-05-20 16:54
 description: The design and development process of creating this portfolio site.
 featuredImage: /assets/thumbnail-portfolio.png
-preview: UX Design • Front-End Development
+preview: UX Design • React Front-End Development
 ---
 <!--StartFragment-->
 

@@ -6,7 +6,7 @@ date: 2020-12-13 08:57
 description: What if there was an application that helped us have difficult but
   healing conversations about mental health?
 featuredImage: /assets/thumbnail-mentalhealthapp.png
-preview: Case Study • User Research
+preview: Design Process • UX Research
 ---
 <!--StartFragment-->
 
