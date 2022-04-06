@@ -13,11 +13,11 @@ preview: UX Design • Front-End Development
 
 I’ve always taken pride in the things I created. This portfolio site is no different, it’s just another chance to show my craft. Here is the creative process.
 
-I began by doing research on what makes portfolios stand out. At first, I thought it may be helpful to create something flashy, with tons of animations and transitions between pages and elements. I tend to become infatuated with flashy creations. But, I know that what I need is a site that accurately captures the skills I have as a UX Designer.
+I began by doing research on what makes portfolios stand out. What I have found is the best portfolios make it easy to find the information you want to see. This echos much of the mantras and goals for UX as a whole. Who is the audience and what do they want to accomplish? What are the jobs to be done? 
 
-Being an effective UX Designer doesn’t simply mean you shoehorn your content into flashy things but that you are organizing content, pages, elements, and information in the most sensible manner. So, I mocked up the information I wished to show in Figma. [I included the Figma prototype for this portfolio here!](https://www.figma.com/proto/CDR9fePXJCS0CpUmNwgWgE/Resume-and-Portfolio?node-id=25%3A1618&scaling=min-zoom&page-id=25%3A1617)
+Just with any complex project, it is great to map out your vision before development. So, I mocked up the information I wished to show in Figma. [I included the Figma prototype for this portfolio here!](https://www.figma.com/proto/CDR9fePXJCS0CpUmNwgWgE/Resume-and-Portfolio?node-id=25%3A1618&scaling=min-zoom&page-id=25%3A1617)
 
-I created simple components that I could use throughout the project. This included colors, typography, and content elements, such as the postcard components and buttons. I thought about what information the user will see first and concluded that most of my experience should appear on the home page. In the near future, I would love to add a section to hold my side projects such as graphic, logo, and branding design.
+I created simple Figma components that I could reuse throughout the project. This included colors, typography, and content elements, such as the postcard components and buttons. I thought about what information the user will see first and concluded that most of my experience should appear on the home page. In the near future, I would love to add a section to hold my side projects such as graphic, logo, and branding design.
 
 The part I am most proud of about this site is it being built using React. Prior to being a UX Designer, I set out to be a Front-End Developer. I was fortunate to have multiple internship opportunities while I was studying at San Jose State University. During those internships, I grasped a strong understanding of HTML, CSS, and Javascript.
 
