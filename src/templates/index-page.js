@@ -1,4 +1,4 @@
-import React from "react"
+import React, { Children } from "react"
 import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import DrawBlob, { generatePoints } from "blob-animated"
@@ -36,6 +36,15 @@ export const pageQuery = graphql`
     }
   }
 `
+
+const IndexCard = (props) => {
+  return (
+    <div className='index-card'>
+      <h1 className='title'>{props.header}</h1>
+      <p className="preview">{props.subheader}</p>
+      {props.children}
+    </div>)
+}
 
 const HomePage = ({ data }) => {
   const { markdownRemark } = data // data.markdownRemark holds your post data
@@ -95,7 +104,75 @@ const HomePage = ({ data }) => {
         </div>
       </div>
       <h1 className='title'>Projects and Case Studies</h1>
+
       <BlogListHome />
+
+
+      {/* Teletrac Navman */}
+      <IndexCard
+        header="Interaction Designer"
+        subheader="Teletrac Navman | Bay Area, CA">
+        <strong>January 2019 - Present</strong>
+        <ul>
+          <li>Innovating and iterating on <strong>enterprise</strong> SASS web and mobile applications</li>
+          <li>Developing intuitive, <strong>high-fidelity</strong> prototypes using Figma and React</li>
+          <li>Collaborating and leading global teams to align with <strong>design systems</strong> and user experiences</li>
+          <li>Conducting qualitative and quantitative UX research for project stakeholders</li>
+          <li>Bridging the gap between mockups and development by coding stylized React components</li>
+        </ul>
+      </IndexCard>
+
+      {/* Cru */}
+      <IndexCard
+        header="Web Designer"
+        subheader="Cru | Bay Area, CA">
+        <strong>January 2018 - June 2018</strong>
+        <ul>
+          <li>Overhaul design work for <a href='https://www.cru.org/epicmovement/'>Epic Movement</a> national website</li>
+          <li>Developing numerous sites and landing pages using WordPress, PHP, and JavaScript</li>
+          <li>Increased website traffic by 30% as a result of improving website discoverablity and usability</li>
+        </ul>
+      </IndexCard>
+
+      {/* Turing Eye */}
+      <IndexCard
+        header="Software Intern"
+        subheader="Turing Eye | Bay Area, CA">
+        <strong>May 2016 - October 2016</strong>
+        <ul>
+          <li>Front-end development for AI-Big data analytics start-up</li>
+          <li>Designed various graphs using D3.js to visualize trends in abstract data points</li>
+        </ul>
+      </IndexCard>
+      
+      {/* Gloo */}
+      <IndexCard
+        header="Programming Intern"
+        subheader="Gloo | Boulder, CO">
+        <strong>June 2015 - July 2015</strong>
+        <ul>
+          <li>Collaborated with programmers to create a task manager to help the team to work more efficently in a fastpace agile environment</li>
+          <li>Developed the task manager by pulling Pivotal Tracker API using Ruby on Rails and rendering the front-end UI with HTML, Bootstrap, and JavaScript</li>
+        </ul>
+      </IndexCard>
+      
+      {/* Certifications */}
+      <IndexCard
+        header="Certifications"
+        >
+        <ul>
+          <li><strong>UX Research & Strategy</strong> | DesignLab, Issued November 2020</li>
+          <li><strong>Learning React.js</strong> | Lynda.com, Issued January 2019</li>
+          <li><strong>Web Development Foundations: Full Stack vs. Front End</strong> | LinkedIn, Issued January 2018</li>
+        </ul>
+      </IndexCard>
+
+      {/* College */}
+      <IndexCard
+        header="Education"
+        subheader="San Jose State University">
+        <p>Bachelor's Degree in Computer Science, 2013 - 2018</p>
+      </IndexCard>
     </Layout>
   )
 }
