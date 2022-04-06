@@ -159,24 +159,16 @@ const HomePage = ({ data }) => {
         </ul>
       </IndexCard>
       
-      {/* Certifications */}
+      {/* College */}
       <IndexCard
-        header="Certifications"
-        >
+        header="Education and Certifications"
+        subheader="San Jose State University | Bachelor's Degree in Computer Science, 2013 - 2018">
+        <strong>Certifications</strong>
         <ul>
           <li><strong>UX Research & Strategy</strong> | DesignLab, Issued November 2020</li>
           <li><strong>Learning React.js</strong> | Lynda.com, Issued January 2019</li>
           <li><strong>Web Development Foundations: Full Stack vs. Front End</strong> | LinkedIn, Issued January 2018</li>
         </ul>
-      </IndexCard>
-
-     
-
-      {/* College */}
-      <IndexCard
-        header="Education"
-        subheader="San Jose State University">
-        <p>Bachelor's Degree in Computer Science, 2013 - 2018</p>
       </IndexCard>
     </Layout>
   )
