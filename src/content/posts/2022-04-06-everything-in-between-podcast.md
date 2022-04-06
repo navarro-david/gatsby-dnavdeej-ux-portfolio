@@ -11,6 +11,8 @@ description: >-
 featuredImage: /assets/thumbnail-eib.png
 preview: UX Design • React Front-End Development
 ---
+[Live Everything in Between site](https://www.eibpodcast.com/)
+
 Simple landing page created for my buddies Daniel Kunkle and Scott Bolin's podcast. Visitors can even listen to the podcast directly from the site.
 
 The site pulls in updates from a [BuzzSprout](https://www.buzzsprout.com/?gclid=CjwKCAjw9LSSBhBsEiwAKtf0n11DN_Otj5PjTkIUrqdugDcIintt7pK0umdwLlD862tBVxzrrhXVCRoCht4QAvD_BwE) API. This plugin was created by [ChanceTheDev](https://chance.dev/). The UI is created with React.js and Gatsby.js.
