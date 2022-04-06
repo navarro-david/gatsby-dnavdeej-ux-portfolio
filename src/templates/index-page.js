@@ -114,7 +114,7 @@ const HomePage = ({ data }) => {
         subheader="Teletrac Navman | Bay Area, CA">
         <strong>January 2019 - Present</strong>
         <ul>
-          <li>Innovating and iterating on <strong>enterprise</strong> SAAS web and mobile applications</li>
+          <li>Innovating new <strong>complex enterprise</strong>, industry-standard, SAAS web and mobile applications</li>
           <li>Developing intuitive, <strong>high-fidelity</strong> prototypes using Figma and React</li>
           <li>Collaborating and leading global teams to align with <strong>design systems</strong> and user experiences</li>
           <li>Conducting qualitative and quantitative UX research for project stakeholders</li>
@@ -130,7 +130,7 @@ const HomePage = ({ data }) => {
         <ul>
           <li>Overhaul design work for <a href='https://www.cru.org/epicmovement/'>Epic Movement</a> national website</li>
           <li>Developing numerous sites and landing pages using WordPress, PHP, and JavaScript</li>
-          <li>Increased website traffic by 30% as a result of improving website discoverablity and usability</li>
+          <li><strong>Increased website traffic by 30%</strong> as a result of improving website discoverability and usability</li>
         </ul>
       </IndexCard>
 
@@ -142,7 +142,7 @@ const HomePage = ({ data }) => {
         subheader="Turing Eye | Bay Area, CA">
         <strong>May 2016 - October 2016</strong>
         <ul>
-          <li>Front-end development for AI-Big data analytics start-up</li>
+          <li>Front-end development for <strong>AI-Big data analytics</strong> start-up</li>
           <li>Designed various graphs using D3.js to visualize trends in abstract data points</li>
         </ul>
         
@@ -154,7 +154,7 @@ const HomePage = ({ data }) => {
         subheader="Gloo | Boulder, CO">
         <strong>June 2015 - July 2015</strong>
         <ul>
-          <li>Collaborated with programmers to create a task manager to help the team to work more efficently in a fastpace agile environment</li>
+          <li>Collaborated with programmers to create a task manager that increased development efficiently in a fastpaced agile environment</li>
           <li>Developed the task manager by pulling Pivotal Tracker API using Ruby on Rails and rendering the front-end UI with HTML, Bootstrap, and JavaScript</li>
         </ul>
       </IndexCard>
