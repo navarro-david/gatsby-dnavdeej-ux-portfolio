@@ -13,10 +13,10 @@ const MenuItems = [
   //   title: "About"
   // },
   // Blog Page, hiding for now.
-  // {
-  //   path: "/blog",
-  //   title: "Blog"
-  // },
+  {
+    path: "/blog",
+    title: "Projects"
+  },
   {
     path: "/contact",
     title: "Contact"

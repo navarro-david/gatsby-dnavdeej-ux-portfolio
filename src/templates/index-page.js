@@ -8,10 +8,6 @@ import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
 import { useEffect } from "react"
 
-import SpotifyPlayer from 'react-spotify-player';
-
-
-
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
 		markdownRemark(id: { eq: $id }) {
@@ -96,15 +92,6 @@ const HomePage = ({ data }) => {
           <canvas id='pp-blob1' />
           <canvas id='pp-blob2' />
           <canvas id='pp-blob3' />
-          {/* <SpotifyPlayer
-            uri="spotify:playlist:5hhBPZEpetN9HY18ni1uwS"
-            size={{
-              width: '100%',
-              height: 300
-            }}
-            view={'list'}
-            theme={'black'}
-          /> */}
         </div>
       </div>
       <h1 className='title'>Projects and Case Studies</h1>
