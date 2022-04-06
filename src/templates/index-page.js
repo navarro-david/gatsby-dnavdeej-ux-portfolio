@@ -82,8 +82,8 @@ const HomePage = ({ data }) => {
   return (
     <Layout>
       <SEO />
-      <div className="home-banner grids col-1 sm-2">
-        <div>
+      <div className="home-banner grids col-1 md-2">
+        <div className="featured-text-group">
           <h1 class="title">{frontmatter.title}</h1>
           <p class="tagline">{frontmatter.tagline}</p>
           <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
@@ -107,6 +107,7 @@ const HomePage = ({ data }) => {
 
       <BlogListHome />
 
+      <h1 className='title'>Work History and Education</h1>
 
       {/* Teletrac Navman */}
       <IndexCard

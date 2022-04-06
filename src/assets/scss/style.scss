@@ -5,9 +5,21 @@
 
 .featured-image-group{
 	position: relative;
+	align-self: start;
 	.featured-image{
 		position: relative;
 		z-index: 2;
+	}
+	@media (max-width: $breakpoint-md) {
+		order: 1;
+		max-width: 450px;
+		// justify-self: center;
+	}
+}
+
+.featured-text-group{
+	@media (max-width: $breakpoint-md) {
+		order: 2;
 	}
 }
 
@@ -189,7 +201,6 @@ h1, h2, h3{
 		color: var(--home-link-color);
 	}
 	.featured-image {
-		order: 1;
 		margin: 32px;
 	}
 	@media (max-width: $breakpoint-md) {
@@ -209,6 +220,14 @@ h1, h2, h3{
 	}
 	.grids {
 		padding-bottom: 48px;
+		// @media (max-width: $breakpoint-md) {
+		// 	.featured-text-group{
+		// 		order: 1;
+		// 	}
+		// 	.featured-image-group{
+		// 		order: 2;
+		// 	}
+		// }
 	}
 	.button {
 		margin-left: 24px;
