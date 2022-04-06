@@ -2,7 +2,7 @@
 template: blog-post
 title: Logo and Branding Design
 slug: /logo-and-branding-design
-date: 2021-02-22 08:58
+date: 2020-12-01 08:58
 description: A small collection of the logos I have created.
 featuredImage: /assets/thumbnail-logos.png
 preview: Logo Design • Graphic Design
