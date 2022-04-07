@@ -9,7 +9,7 @@ const PostMaker = ({ data }) => (
     <div className="grids col-1 sm-2 lg-3">
       {data}
     </div>
-    <Link className="button -outline" to="/blog">View More Projects</Link>
+    {/* <Link className="button -outline" to="/blog">View More Projects</Link> */}
   </section>
 )
 

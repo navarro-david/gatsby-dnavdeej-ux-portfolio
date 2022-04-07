@@ -24,6 +24,7 @@ const PostCard = ({ data }) => {
         ) : ""
       }
       <div class="post-content">
+        {/* {console.log(`Test: ${data.frontmatter.slug}`)} */}
         <h2 className="title"><Link to={data.frontmatter.slug}>{data.frontmatter.title}</Link></h2>
         <p className="preview"><time>{data.frontmatter.preview}</time></p>
         <p className="meta"><time>{data.frontmatter.date}</time></p>

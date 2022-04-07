@@ -78,6 +78,7 @@ class BlogIndex extends React.Component {
     // const diamondAnimation = useSpring({opacity: 1, from: {opacity: 0}});
     const { data } = this.props
     const { currentPage, numPages } = this.props.pageContext
+    // const blogSlug = '/' 
     const blogSlug = '/blog/' 
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
