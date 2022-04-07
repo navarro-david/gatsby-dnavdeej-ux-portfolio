@@ -6,8 +6,8 @@ tagline: UI/UX Designer and Researcher
 featuredImage: /assets/portfolioprofile.png
 introduction: "[ dee-nav-deej ]"
 cta:
-  ctaText: View Resume
-  ctaLink: https://www.figma.com/proto/CDR9fePXJCS0CpUmNwgWgE/Resume?node-id=101%3A2455&scaling=min-zoom
+  ctaText: Connect on LinkedIn
+  ctaLink: https://www.linkedin.com/in/dnavdeej/
 ---
 Coffee powered, rock climbing, UX designer, plant parent. **whew!** 
 
