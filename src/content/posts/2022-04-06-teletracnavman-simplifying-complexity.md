@@ -41,7 +41,6 @@ In the UX/UI space, sometimes we focus too much on creating a "Canva". We try to
 
 Photoshop is complex, but it is powerful. Managing 1000+ vehicles and assets across 1000+ miles with 1000+ drivers is complex. I design a complex but powerful system so users can achieve this. We tried designing a "Canva" and that narrowed the personas we could serve. We have dozens of personas, industries, regions, and policies to consider. Leveraging UX Research practices is the first step to simplifying this complexity. 
 
-![Design System](/assets/balazs-ketyi-9vzorkfbsmm-unsplash.jpg "Photo by Balázs Kétyi on Unsplash   ")
 
 ## Design Systems Evolve
 
