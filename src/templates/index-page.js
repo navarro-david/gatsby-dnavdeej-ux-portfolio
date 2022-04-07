@@ -76,6 +76,23 @@ const HomePage = ({ data }) => {
       color: '#94D0B6',
       vectors: generatePoints({ sides: 3 })
     })
+
+    // const Blob4 = new DrawBlob({
+    //   canvas: document.getElementById('pp-blob4'),
+    //   speed: 650,
+    //   scramble: 0.1,
+    //   color: '#94D0B6',
+    //   vectors: generatePoints({ sides: 3 })
+    // })
+
+    // const Blob5 = new DrawBlob({
+    //   canvas: document.getElementById('pp-blob5'),
+    //   speed: 600,
+    //   scramble: 0.1,
+    //   color: '#50b288',
+    //   vectors: generatePoints({ sides: 3 })
+    // })
+
   });
 
 
@@ -171,6 +188,9 @@ const HomePage = ({ data }) => {
           <li><strong>Web Development Foundations: Full Stack vs. Front End</strong> | LinkedIn, Issued January 2018</li>
         </ul>
       </IndexCard>
+
+      {/* <canvas id='pp-blob4' />
+      <canvas id='pp-blob5' /> */}
     </Layout>
   )
 }
