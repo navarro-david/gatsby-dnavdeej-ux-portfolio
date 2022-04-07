@@ -23,11 +23,7 @@ Users want to track more than just the location of their "stuff". They want to u
 
 The complexity doesn't stop at the endless use-cases. There is an array of asset devices to support, each providing unique metrics to process. The users we provide to all have different nuances in their jobs with very specific needs from their respective industries. Oh, did I mention that we serve a global customer base? Regions have their laws and regulations to follow too.
 
-
-
 ## Key Takeaways
-
-
 
 Before I get into the details of what I have learned during my time at TeletracNavman, I want to give an overview for those who like it straight to the point! *I get it, I am the same way!*
 
@@ -41,10 +37,9 @@ In the UX/UI space, sometimes we focus too much on creating a "Canva". We try to
 
 Photoshop is complex, but it is powerful. Managing 1000+ vehicles and assets across 1000+ miles with 1000+ drivers is complex. I design a complex but powerful system so users can achieve this. We tried designing a "Canva" and that narrowed the personas we could serve. We have dozens of personas, industries, regions, and policies to consider. Leveraging UX Research practices is the first step to simplifying this complexity. 
 
+![Design system](/assets/balazs-ketyi-9vzorkfbsmm-unsplash.jpg "Photo by Balázs Kétyi on Unsplash")
 
 ## Design Systems Evolve
-
-
 
 In my 3+ years at TeletracNavman, I have gained a tremendous amount of experience designing complex systems. My designs have been developed, broken, and conceptualized again and again. 
 
@@ -54,11 +49,7 @@ I helped establish a design system early on, but it was difficult to scale. We l
 
 If there are inconsistencies in prototypes and designs, there will also be inconsistencies in the product. Moving forward, the team and I have created core components in Figma. Within those Figma files, there is also documentation on the dos and don'ts when using each component. We are also closely working with POs to get proper design QA. These processes alone have allowed our design systems to evolve as it also allows us to get feedback on how developers are consuming our artifacts.
 
-
-
 ## Knowing is Half the Battle
-
-
 
 A developing initiative that we are refining is our UX research processes. As I have mentioned before, we have many regions and industries that our product serves. These two variables exponentially increase the personas we need to understand.
 
