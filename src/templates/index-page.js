@@ -106,6 +106,7 @@ const HomePage = ({ data }) => {
           <div className="description" dangerouslySetInnerHTML={{ __html: html }} />
           <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}
           </Link>
+          
         </div>
         <div className="featured-image-group">
           {Image ? (
@@ -125,6 +126,7 @@ const HomePage = ({ data }) => {
       <BlogListHome />
 
       <h1 className='title'>Work History and Education</h1>
+      <Link to={'https://www.figma.com/proto/CDR9fePXJCS0CpUmNwgWgE/Resume-%26-Portfolio?node-id=1026%3A2954&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1026%3A2954'} className="button -outline" style={{marginBottom: '32px'}}>View Resume</Link>
 
       {/* Teletrac Navman */}
       <IndexCard
@@ -133,6 +135,7 @@ const HomePage = ({ data }) => {
         <strong>January 2019 - Present</strong>
         <ul>
           <li>Innovating new <strong>complex enterprise</strong>, industry-standard, SAAS web and mobile applications</li>
+          <li>Specialized in <strong>designing location-centric insights and visualizations</strong></li>
           <li>Developing intuitive, <strong>high-fidelity</strong> prototypes using Figma and React</li>
           <li>Collaborating and leading global teams to align with <strong>design systems</strong> and user experiences</li>
           <li>Conducting qualitative and quantitative UX research for project stakeholders</li>
