@@ -135,7 +135,7 @@ const HomePage = ({ data }) => {
         <strong>January 2019 - Present</strong>
         <ul>
           <li>Innovating new <strong>complex enterprise</strong>, industry-standard, SAAS web and mobile applications</li>
-          <li>Specialized in <strong>designing location-centric insights and visualizations</strong></li>
+          <li>Specialized in designing<strong>B2B location-centric insights and vehicle management</strong></li>
           <li>Developing intuitive, <strong>high-fidelity</strong> prototypes using Figma and React</li>
           <li>Collaborating and leading global teams to align with <strong>design systems</strong> and user experiences</li>
           <li>Conducting qualitative and quantitative UX research for project stakeholders</li>
