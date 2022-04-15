@@ -9,7 +9,7 @@ preview: UX Research
 ---
 <!--StartFragment-->
 
-Not to be dramatic, but this design sprint changed my life.
+**Not to be dramatic, but this design sprint changed my life.**
 
 For the purpose of this article, I don’t want to spend too much time talking about the design processes I practiced. That information can be found in this article found [here](https://medium.com/@MarcKrejci/how-a-one-day-design-sprint-helped-to-serve-bay-area-foster-families-2b4ac1679f00) written by [Marc Krejci](https://www.linkedin.com/in/marckrejci/), Product Design Manager at Meta. (The photos used in this article are taken from his article.) He was the facilitator of the design sprint.
 
@@ -21,7 +21,7 @@ What I want to talk about is my experience there. I want to talk about how this 
 
 # What is Foster the City?
 
-Back in 2018, I attended a design sprint and hackathon event with [FaithTech](https://faithtech.com/). The design sprint focused on designing an app for the organization, Foster the City. [Foster the City](https://fosterthecity.org/) is a non-profit organization that networks with churches and families to foster parents around the nation. At the time of the design sprint, Foster the City was known as Foster the Bay but has expanded its reach since then thus the name change. They believe that any family needs more influential people than just the parents to raise their kids and this is especially true for foster parents. To be blunt, the foster system in America is not great. Children go from house to house, from parent to parent, and some never leave the foster system. Children carry these burdens which brings a layer of difficulty to foster parents.
+Back in 2018, I attended a design sprint and hackathon event with [FaithTech](https://faithtech.com/). The design sprint focused on designing an app for the organization, Foster the City. [Foster the City](https://fosterthecity.org/) is a non-profit organization that networks with churches and families to foster parents around the nation. At the time of the design sprint, Foster the City was known as Foster the Bay but has expanded its reach since then thus the name change. They believe that any family needs more influential people than just the parents to raise their kids and this is especially true for foster parents. **To be blunt, the foster system in America is not great.** Children go from house to house, from parent to parent, and some never leave the foster system. Children carry these burdens which brings a layer of difficulty to foster parents.
 
 <!--EndFragment-->
 
@@ -53,7 +53,7 @@ This is the design process I desire. A process where we **design for people, not
 
 The product we created was essentially a messaging app, with the ability to join groups called “villages.” Each village consisted of a foster family and supporting people. The village will be notified if there is a crisis occurring which is shared at the discretion of the foster family. The supporters will be prompted in different ways they can help.
 
-We were in teams when we created our low-fidelity prototypes. At the end of the exercise, we chose one prototype to use for initial usablity testing and mine was the one chosen. The usability testing is shown below.
+We were in teams when we created our low-fidelity prototypes. At the end of the exercise, we chose one prototype to use for initial usability testing and mine was the one chosen. The usability testing is shown below.
 
 ![Me watching a user navigate through a low-fidelity prototype.](/assets/1_-l82bc-66fxdxapynutjka.jpeg "Me watching a user navigate through a low-fidelity prototype.")
 
