@@ -21,7 +21,7 @@ What I want to talk about is my experience there. I want to talk about how this 
 
 # What is Foster the City?
 
-[Foster the City](https://fosterthecity.org/) is a non-profit organization that networks with churches and families to foster parents around the nation. At the time of the design sprint, Foster the City was known as Foster the Bay but has expanded its reach since then thus the name change. They believe that any family needs more influential people than just the parents to raise their kids and this is especially true for foster parents. To be blunt, the foster system in America is not great. Children go from house to house, from parent to parent, and some never leave the foster system. Children carry these burdens which brings a layer of difficulty to foster parents.
+Back in 2018, I attended a design sprint and hackathon event with [FaithTech](https://faithtech.com/). The design sprint focused on designing an app for the organization, Foster the City. [Foster the City](https://fosterthecity.org/) is a non-profit organization that networks with churches and families to foster parents around the nation. At the time of the design sprint, Foster the City was known as Foster the Bay but has expanded its reach since then thus the name change. They believe that any family needs more influential people than just the parents to raise their kids and this is especially true for foster parents. To be blunt, the foster system in America is not great. Children go from house to house, from parent to parent, and some never leave the foster system. Children carry these burdens which brings a layer of difficulty to foster parents.
 
 <!--EndFragment-->
 
@@ -52,8 +52,6 @@ This is the design process I desire. A process where we **design for people, not
 # The Outcome
 
 The product we created was essentially a messaging app, with the ability to join groups called “villages.” Each village consisted of a foster family and supporting people. The village will be notified if there is a crisis occurring which is shared at the discretion of the foster family. The supporters will be prompted in different ways they can help.
-
-
 
 We were in teams when we created our low-fidelity prototypes. At the end of the exercise, we chose one prototype to use for initial usablity testing and mine was the one chosen. The usability testing is shown below.
 
