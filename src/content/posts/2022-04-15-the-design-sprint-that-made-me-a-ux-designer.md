@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: The Design Sprint that made me a UX Designer
-slug: the-design-sprint-that-made-me-a-ux-designer
+title: The Design Sprint that made me a UX Designer and Researcher
+slug: the-design-sprint-that-made-me-a-uxd-uxr
 date: 2022-04-15 12:07
 description: Not to be dramatic, but this design sprint changed my life.
 featuredImage: /assets/thumbnail-fosterthecity.png
