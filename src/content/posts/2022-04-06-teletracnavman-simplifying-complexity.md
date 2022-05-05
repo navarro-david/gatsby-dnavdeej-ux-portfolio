@@ -17,7 +17,7 @@ preview: UX Design • UI Design • Enterprise SAAS
 
 TeletracNavman creates software that tracks assets. Assets are vehicles, trailers, and cargo just to name a few. Seems simple enough right? I mean, our phones track our location, what else would we want to track?
 
-That is what I thought when I first joined the team as the sole Interaction Designer. Boy was I naive.
+That is what I thought when I first joined the team as the sole **Interaction Designer**. Boy was I naive.
 
 Users want to track more than just the location of their "stuff". They want to understand how their "stuff" is being used. They want to know the cost of operating a fleet of dozens or hundreds of vehicles. Users want to know if their employees are safe or when they need to take emergency actions.  They want to know if their "stuff" is out of operation, in the repair shop or gone missing. Users want to know the return on investment of this "stuff". 
 
